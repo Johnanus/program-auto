@@ -1,0 +1,2 @@
+# program-auto
+program AutoHotkey
